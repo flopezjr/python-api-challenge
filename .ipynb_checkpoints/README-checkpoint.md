@@ -13,7 +13,8 @@ I used two API's two solve WeatherPy (OpenWeatherMap API) and VacationPy (Google
 
 **VacationPy**
 We are planning a future vacation using ideal temps. I had to find a hotel in each city using the Google Place API. Used a simalir process in the WeatherPy example. I used mapbox to create a scatterbox. 
-![image](VacationPy/Images/xxxxxx.png)
+
+![image](VacationPy/Images/newplot.png)
 
 
 ## Analysis
